@@ -4,5 +4,6 @@
                  [javax.jcr/jcr "1.0"]
                  [org.apache.jackrabbit/jackrabbit-jcr-rmi "1.4.1"]
                  [crx/crx-rmi "1.4.0"]
-                 [org.enclojure/enclojure-repl "1.0"]])
+		 [org.enclojure/enclojure-repl "1.0"]]
+  :dev-dependencies [[com.codestuffs.clojure/swank-clojure "1.0-SNAPSHOT"]])
 
